@@ -8,8 +8,6 @@
 [![Linkedin: sarasalazarz](https://img.shields.io/badge/-sarasalazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarasalazarz/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/sarasalazarz/))
 [![GitHub SaraDSala](https://img.shields.io/github/followers/SaraDSala?label=follow&style=social)](https://github.com/SaraDSala)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaraDSala&theme=panda&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=550&card_height=150&hide_current_streak=true)](https://git.io/streak-stats)
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -19,7 +17,7 @@ const Sara = {
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java]
 }
 ```
-
+<a align='center' href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SaraDSala&theme=shadow-purple&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=550&card_height=150&hide_current_streak=true" alt="GitHub Streak" /></a>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
