@@ -23,7 +23,7 @@ const Sara = {
 
 
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lyMTI1eXBnNXdtbGxkMmEzNmxhZjJ6dWpqOHJsbXlydTQxN3c0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5vlqsvkApaFjtvL6CZ/giphy.webp" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNpcm8zNTZ3M245d2x1M3FmaGN0ZDIyZzFhbGozdTNwcWZ5NHl4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yISELtJEd545XAqw8x/giphy.webp" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
