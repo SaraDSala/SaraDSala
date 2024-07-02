@@ -14,18 +14,19 @@
 ```javascript
 const Sara = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java]
+  code: [Javascript, HTML, CSS, Python, Java, C++]
+  in_process: [React]
 }
 ```
 <div align='center'>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SaraDSala&theme=panda&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=550&card_height=150&hide_current_streak=true" alt="GitHub Streak" /></a>
-</div>
+
 
 
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNpcm8zNTZ3M245d2x1M3FmaGN0ZDIyZzFhbGozdTNwcWZ5NHl4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yISELtJEd545XAqw8x/giphy.webp" width="100"> <em><b>Hi, I'm a bookworm. </b> so If you feel the same way, <b> feel free to say hello! </b> </em>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNpcm8zNTZ3M245d2x1M3FmaGN0ZDIyZzFhbGozdTNwcWZ5NHl4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yISELtJEd545XAqw8x/giphy.webp" width="100">
-<em><b Hola, me considero un ratón de biblioteca </b> así que si te sientes identificad@ <b> puedes saludarme! </b> </em>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNpcm8zNTZ3M245d2x1M3FmaGN0ZDIyZzFhbGozdTNwcWZ5NHl4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yISELtJEd545XAqw8x/giphy.webp" width="100"></br>
+<em><b> Hola, me considero un ratón de biblioteca </b> así que si te sientes identificad@ <b> puedes saludarme! </b> </em>
+</div>
 
----
 
