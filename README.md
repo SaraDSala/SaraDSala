@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Full Stack Java Developer at <a href="https://www.thoughtworks.com"> Generation Colombia</a>/ Desarrolladora Full Stack Java de <a href="https://www.thoughtworks.com"> Generation Colombia  </a> 
 </em></p>
 
-[![Linkedin: sarasalazarz](https://img.shields.io/badge/-sarasalazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarasalazarz/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/sarasalazarz/))
+[![Linkedin: sarasalazarz](https://img.shields.io/badge/-sarasalazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarasalazarz/)](https://www.linkedin.com/in/sarasalazarz)
 [![GitHub SaraDSala](https://img.shields.io/github/followers/SaraDSala?label=follow&style=social)](https://github.com/SaraDSala)
 
 
