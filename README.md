@@ -22,9 +22,8 @@ const Sara = {
 </div>
 
 
-<iframe src="https://giphy.com/embed/5vlqsvkApaFjtvL6CZ" width="478" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lanlancat-mochidad-5266-5vlqsvkApaFjtvL6CZ">via GIPHY</a></p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lyMTI1eXBnNXdtbGxkMmEzNmxhZjJ6dWpqOHJsbXlydTQxN3c0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5vlqsvkApaFjtvL6CZ/giphy.webp" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
