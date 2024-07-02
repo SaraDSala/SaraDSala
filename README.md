@@ -9,7 +9,8 @@
 [![GitHub SaraDSala](https://img.shields.io/github/followers/SaraDSala?label=follow&style=social)](https://github.com/SaraDSala)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
+### Un poco sobre mi...  
 
 ```javascript
 const Sara = {
@@ -24,9 +25,9 @@ const Sara = {
 
 
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNpcm8zNTZ3M245d2x1M3FmaGN0ZDIyZzFhbGozdTNwcWZ5NHl4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yISELtJEd545XAqw8x/giphy.webp" width="100"> <em><b>Hi, I'm a bookworm. </b> so If you feel the same way, <b> feel free to say hello! </b> </em>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNpcm8zNTZ3M245d2x1M3FmaGN0ZDIyZzFhbGozdTNwcWZ5NHl4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yISELtJEd545XAqw8x/giphy.webp" width="100"> <em><b> I'm a bookworm. </b> so If you feel the same way, <b> feel free to say hello! </b> </em>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNpcm8zNTZ3M245d2x1M3FmaGN0ZDIyZzFhbGozdTNwcWZ5NHl4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yISELtJEd545XAqw8x/giphy.webp" width="100"></br>
-<em><b> Hola, me considero un ratón de biblioteca </b> así que si te sientes identificad@ <b> puedes saludarme! </b> </em>
+<em><b> Me considero un ratón de biblioteca </b> así que si te sientes identificad@ <b> puedes saludarme! </b> </em>
 </div>
 
 
