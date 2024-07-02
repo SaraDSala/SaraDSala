@@ -18,9 +18,11 @@ const Sara = {
 }
 ```
 <div align='center'>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SaraDSala&theme=shadow-purple&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=550&card_height=150&hide_current_streak=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SaraDSala&theme=panda&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=550&card_height=150&hide_current_streak=true" alt="GitHub Streak" /></a>
 </div>
 
+
+<iframe src="https://giphy.com/embed/5vlqsvkApaFjtvL6CZ" width="478" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lanlancat-mochidad-5266-5vlqsvkApaFjtvL6CZ">via GIPHY</a></p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
